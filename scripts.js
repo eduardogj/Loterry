@@ -2,7 +2,7 @@ var arr = [];
 
 while(arr.length < 15) {
 
-var r = Math.floor(Math.random()*35) + 1;
+var r = Math.floor(Math.random()*25) + 1;
 
     if(arr.indexOf(r) === -1) arr.push(r);
 
