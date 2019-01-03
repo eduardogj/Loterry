@@ -1,0 +1,36 @@
+body {
+  background-color: #100e17;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-size: 8rem;
+  padding: 3rem 0;
+}
+
+p {
+  padding-bottom: 3%;
+}
+
+
+#lastsection {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.footertext {
+padding-bottom: 0;
+padding-top: 3%
+}
+
+.data {
+  border: 1px solid #fff;
+}
+
+.tbody {
+  display: inline-block;
+  font-size: 2rem;
+}
